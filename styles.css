@@ -646,18 +646,6 @@ ul {
   margin-top: 40px;
 }
 
-.section-bg-food,
-.section-bg-vape {
-  padding: 110px 0;
-}
-background-image:
-linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-url("images/sections/fresh-food-bg.jpg");
-.section-bg-food h2,
-.section-bg-vape h2 {
-  color: white;
-}
-
 .section-bg-food p,
 .section-bg-vape p {
   color: #f0f0f0;
